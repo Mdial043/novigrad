@@ -1,0 +1,4 @@
+#Mon Nov 02 02:40:22 GMT-02:00 2020
+base.0=C\:\\Users\\rafar\\AndroidStudioProjects\\Novigrad\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

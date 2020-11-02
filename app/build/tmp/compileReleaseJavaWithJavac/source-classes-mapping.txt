@@ -1,0 +1,24 @@
+com/example/novigrad/RegistrationActivity.java
+ com.example.novigrad.RegistrationActivity
+ com.example.novigrad.RegistrationActivity$1
+ com.example.novigrad.RegistrationActivity$2
+com/example/novigrad/ClientActivity.java
+ com.example.novigrad.ClientActivity
+ com.example.novigrad.ClientActivity$1
+ com.example.novigrad.ClientActivity$1$1
+com/example/novigrad/MainActivity.java
+ com.example.novigrad.MainActivity
+ com.example.novigrad.MainActivity$1
+ com.example.novigrad.MainActivity$2
+ com.example.novigrad.MainActivity$3
+ com.example.novigrad.MainActivity$4
+com/example/novigrad/AdminActivity.java
+ com.example.novigrad.AdminActivity
+com/example/novigrad/EmployeeActivity.java
+ com.example.novigrad.EmployeeActivity
+ com.example.novigrad.EmployeeActivity$1
+ com.example.novigrad.EmployeeActivity$1$1
+com/example/novigrad/SecondActivity.java
+ com.example.novigrad.SecondActivity
+com/example/novigrad/BuildConfig.java
+ com.example.novigrad.BuildConfig

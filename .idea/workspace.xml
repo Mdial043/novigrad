@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36e0ddd2-5247-46df-b8ea-14e7448bb0d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_3a_API_30_x86]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="D:\Android\Novigrad.jks" />
+    <option name="KEY_ALIAS" value="key" />
+  </component>
+  <component name="ProjectId" id="1j3RyAhivkSASoBR0Gzpeol1ssa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BundleExportedModule" value="Novigrad.app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="XNSNW19C13001935" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-11-02T04:42:50.972Z" />
+    <property name="ExportApk.ApkPath" value="C:\Users\rafar\AndroidStudioProjects\Novigrad\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ResourceManagerPrefKey.ResourceType" value="NAVIGATION" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.121060152">
+      <recent name="com.example.novigrad" />
+    </key>
+    <key name="android.template.856455951">
+      <recent name="com.example.novigrad" />
+    </key>
+    <key name="android.template.942355275">
+      <recent name="com.example.novigrad" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Novigrad.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Novigrad [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Novigrad [signingReport]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36e0ddd2-5247-46df-b8ea-14e7448bb0d1" name="Default Changelist" comment="" />
+      <created>1603031040277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603031040277</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="299" y="247" key="#PSD" timestamp="1604186406339">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="299" y="247" key="#PSD/0.0.1563.1002@0.0.1563.1002" timestamp="1604186406339" />
+    <state x="197" y="219" key="#com.intellij.ide.util.MemberChooser" timestamp="1604282634424">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="197" y="219" key="#com.intellij.ide.util.MemberChooser/0.0.1563.1002@0.0.1563.1002" timestamp="1604282634424" />
+    <state x="565" y="370" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604282000637">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="565" y="370" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1563.1002@0.0.1563.1002" timestamp="1604282000636" />
+    <state x="512" y="248" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603039690944">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="512" y="248" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1563.1002@0.0.1563.1002" timestamp="1603039690944" />
+    <state x="93" y="93" width="1377" height="816" key="AVDManager" timestamp="1603071748955">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="93" y="93" width="1377" height="816" key="AVDManager/0.0.1563.1002@0.0.1563.1002" timestamp="1603071748955" />
+    <state x="0" y="256" key="AndroidCreateResourceFileDialog" timestamp="1604275411763">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="0" y="256" key="AndroidCreateResourceFileDialog/0.0.1563.1002@0.0.1563.1002" timestamp="1604275411763" />
+    <state x="620" y="229" key="FileChooserDialogImpl" timestamp="1603120046116">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="620" y="229" key="FileChooserDialogImpl/0.0.1563.1002@0.0.1563.1002" timestamp="1603120046116" />
+    <state width="1519" height="268" key="GridCell.Tab.0.bottom" timestamp="1603051980468">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state width="1519" height="268" key="GridCell.Tab.0.bottom/0.0.1563.1002@0.0.1563.1002" timestamp="1603051980468" />
+    <state width="1519" height="268" key="GridCell.Tab.0.center" timestamp="1603051980468">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state width="1519" height="268" key="GridCell.Tab.0.center/0.0.1563.1002@0.0.1563.1002" timestamp="1603051980468" />
+    <state width="1519" height="268" key="GridCell.Tab.0.left" timestamp="1603051980468">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state width="1519" height="268" key="GridCell.Tab.0.left/0.0.1563.1002@0.0.1563.1002" timestamp="1603051980468" />
+    <state width="1519" height="268" key="GridCell.Tab.0.right" timestamp="1603051980468">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state width="1519" height="268" key="GridCell.Tab.0.right/0.0.1563.1002@0.0.1563.1002" timestamp="1603051980468" />
+    <state x="291" y="146" key="SettingsEditor" timestamp="1604186413583">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="291" y="146" key="SettingsEditor/0.0.1563.1002@0.0.1563.1002" timestamp="1604186413583" />
+    <state x="439" y="231" key="run.anything.popup" timestamp="1604274865466">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="439" y="231" key="run.anything.popup/0.0.1563.1002@0.0.1563.1002" timestamp="1604274865466" />
+    <state x="444" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1603033197458">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="444" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1563.1002@0.0.1563.1002" timestamp="1603033197458" />
+  </component>
+</project>

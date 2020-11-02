@@ -1,0 +1,54 @@
+com/example/novigrad/deleteservice.java
+ com.example.novigrad.deleteservice
+com/example/novigrad/ModifyService.java
+ com.example.novigrad.ModifyService
+ com.example.novigrad.ModifyService$1
+ com.example.novigrad.ModifyService$2
+ com.example.novigrad.ModifyService$3
+com/example/novigrad/ServiceList.java
+ com.example.novigrad.ServiceList
+com/example/novigrad/ClientActivity.java
+ com.example.novigrad.ClientActivity
+ com.example.novigrad.ClientActivity$1
+ com.example.novigrad.ClientActivity$1$1
+com/example/novigrad/EmployeeActivity.java
+ com.example.novigrad.EmployeeActivity
+ com.example.novigrad.EmployeeActivity$1
+ com.example.novigrad.EmployeeActivity$1$1
+com/example/novigrad/MainActivity.java
+ com.example.novigrad.MainActivity
+ com.example.novigrad.MainActivity$1
+ com.example.novigrad.MainActivity$2
+ com.example.novigrad.MainActivity$3
+ com.example.novigrad.MainActivity$4
+com/example/novigrad/SecondActivity.java
+ com.example.novigrad.SecondActivity
+com/example/novigrad/RegistrationActivity.java
+ com.example.novigrad.RegistrationActivity
+ com.example.novigrad.RegistrationActivity$1
+ com.example.novigrad.RegistrationActivity$2
+com/example/novigrad/BuildConfig.java
+ com.example.novigrad.BuildConfig
+com/example/novigrad/Service.java
+ com.example.novigrad.Service
+com/example/novigrad/DeleteActivity.java
+ com.example.novigrad.DeleteActivity
+com/example/novigrad/changerService.java
+ com.example.novigrad.changerService
+ com.example.novigrad.changerService$1
+ com.example.novigrad.changerService$2
+ com.example.novigrad.changerService$3
+com/example/novigrad/SeeSeriveActivity.java
+ com.example.novigrad.SeeSeriveActivity
+ com.example.novigrad.SeeSeriveActivity$1
+ com.example.novigrad.SeeSeriveActivity$2
+com/example/novigrad/AdminActivity.java
+ com.example.novigrad.AdminActivity
+ com.example.novigrad.AdminActivity$1
+ com.example.novigrad.AdminActivity$2
+ com.example.novigrad.AdminActivity$3
+com/example/novigrad/TotalService.java
+ com.example.novigrad.TotalService
+ com.example.novigrad.TotalService$1
+ com.example.novigrad.TotalService$2
+ com.example.novigrad.TotalService$3
